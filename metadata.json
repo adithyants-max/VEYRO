@@ -1,0 +1,6 @@
+{
+  "name": "DRIFT X",
+  "description": "High-octane browser-based 3D car drifting game and gaming hub featuring realistic drift physics, multiple tracks, customizable tuner cars, dynamic tire smoke, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
